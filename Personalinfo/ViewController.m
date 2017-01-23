@@ -25,5 +25,13 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)cleardidTouchUpInside:(id)sender {
+}
+
+- (IBAction)submitdidTOuchUpInside:(id)sender {
+}
+
+- (IBAction)modifydidTouchUpInside:(id)sender {
+}
 
 @end
